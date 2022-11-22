@@ -1,5 +1,7 @@
 # Case Renner: Vehicle Routing Problem with Time Windows +
 
+Link para o Relatório: https://www.overleaf.com/read/htnpmksfhpkt
+
 Grupo:
 
 Gabriel Telles Missailidis (T25 - ITA) 
