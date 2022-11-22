@@ -4,8 +4,15 @@ O projeto escolhido para realização no contexto da disciplina de PO-202 foi o 
 
 
 
-# Tecnologias Utilizadas
+# Tecnologias e Bibliotecas Utilizadas
 
-Python: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-Pandas: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
+- Python
+- Pandas
+- Matplotlib
+- PuLP
+- Geopy
+- Numpy
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
 
