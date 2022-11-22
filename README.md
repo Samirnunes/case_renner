@@ -1,7 +1,7 @@
 # Case Renner: Vehicle Routing Problem with Time Windows +
 
 Grupo:
-Gabriel Telles Missailidis (T25 - ITA)
+Gabriel Telles Missailidis (T25 - ITA) \\
 Rafael Silva de Oliveira (T25 - ITA)
 Samir Nunes da Silva (T25 - ITA)
  
