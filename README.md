@@ -18,6 +18,8 @@ O projeto escolhido para realização no contexto da disciplina de PO-202 foi o 
 
 # Tecnologias e Bibliotecas Utilizadas
 
+- Jupyter Notebook
+- Google Colab
 - Python
 - Pandas
 - Matplotlib
