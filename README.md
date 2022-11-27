@@ -4,11 +4,11 @@ Link para o relatório: https://www.overleaf.com/read/htnpmksfhpkt
 
 Grupo:
 
-Gabriel Telles Missailidis (T25 - ITA) 
+Gabriel Telles Missailidis (T25 - ITA): https://www.linkedin.com/in/gabriel-telles/
 
-Rafael Silva de Oliveira (T25 - ITA)
+Rafael Silva de Oliveira (T25 - ITA): https://www.linkedin.com/in/rafael-silva-de-oliveira/
 
-Samir Nunes da Silva (T25 - ITA)
+Samir Nunes da Silva (T25 - ITA): https://www.linkedin.com/in/samir-nunes-da-silva/
  
 O projeto escolhido para realização no contexto da disciplina de PO-202 foi o case proposto pela loja de roupas Renner, que se trata do clássico Vehicle Routing Problem com a adição de Time Windows, tempos de descanso, dias da semana e restrições envolvendo turnos. Uma breve descrição do problema e a série principal de restrições associadas são mostradas, respectivamente, nas figuras a seguir:
 
@@ -18,6 +18,8 @@ O projeto escolhido para realização no contexto da disciplina de PO-202 foi o 
 
 # Tecnologias e Bibliotecas Utilizadas
 
+- Jupyter Notebook
+- Google Colab
 - Python
 - Pandas
 - Matplotlib
