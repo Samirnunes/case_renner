@@ -16,7 +16,7 @@ O projeto escolhido para realização no contexto da disciplina de PO-202 foi o 
 
 ![alt text](https://github.com/Samirnunes/case_renner/blob/Result/Imagens/restrictions.PNG)
 
-# Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 - Jupyter Notebook
 - Google Colab
